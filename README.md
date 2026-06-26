@@ -46,6 +46,7 @@ The system extracts key insights and presents them in a simple and clear format.
 
 * **Python** (Pandas, Matplotlib)
 * **SQL** (MySQL)
+* NOSQL
 * **Microsoft Excel**
 * **CSV Dataset**
 
