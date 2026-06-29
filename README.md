@@ -12,7 +12,7 @@
 
 ## 📌 Problem Statement
 
-Organizations maintain large volumes of employee data including department, experience, salary, and location. However, without proper analysis, this data cannot provide useful insights.
+Organizations maintain large volumes of employee data including department, experience, salary, and location and work. However, without proper analysis, this data cannot provide useful insights.
 
 This project aims to analyze employee salary data to understand salary distribution across departments and evaluate how experience influences salary levels, helping management in better decision-making.
 
